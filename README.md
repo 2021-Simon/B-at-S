@@ -1,2 +1,2 @@
-# B-S
+# B@S
 business@school powerpoint repository
